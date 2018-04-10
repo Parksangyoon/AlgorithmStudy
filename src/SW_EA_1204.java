@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class SW_EA_1204 {
-    public static void main(String args[]) throws Exception
+    public static void solution(String args[]) throws Exception
     {
         Scanner sc = new Scanner(System.in);
         int countOfScores[] = new int[101];
