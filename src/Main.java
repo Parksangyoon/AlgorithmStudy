@@ -9,6 +9,8 @@ public class Main {
         T=sc.nextInt();
 
         for (int test_case = 1; test_case <= T; test_case++) {
+
+            System.out.println(String.format("#%d %d", test_case, 1));
         }
     }
 
