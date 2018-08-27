@@ -1,3 +1,5 @@
+package SW_EA;
+
 import java.util.Scanner;
 
 public class SW_EA_4012 {

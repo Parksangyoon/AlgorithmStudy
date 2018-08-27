@@ -1,3 +1,5 @@
+package SW_EA;
+
 public class Position_2383 {
     int x;
     int y;
